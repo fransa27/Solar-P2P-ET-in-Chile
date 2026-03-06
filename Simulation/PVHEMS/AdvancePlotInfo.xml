@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Plots>
+  <Plot>
+    <Plot SUBLAYER_NAME="Application Performance">
+      <Plot DisplayName="Throughput vs Time" LogFileName="Application_Packet_Log.csv" ScriptFileName="Application_Packet_Log\Application_Packet_Log_Throughput_vs_Time.xml" />
+      <Plot DisplayName="Latency vs Time" LogFileName="Application_Packet_Log.csv" ScriptFileName="Application_Packet_Log\Application_Packet_Log_Latency_vs_Time.xml" />
+      <Plot DisplayName="Jitter vs Time" LogFileName="Application_Packet_Log.csv" ScriptFileName="Application_Packet_Log\Application_Packet_Log_Jitter_vs_Time.xml" />
+      <Plot DisplayName="Generation Rate vs Time" LogFileName="Application_Generation_Log.csv" ScriptFileName="Application_Packet_Log\Application_Packet_Log_Generation_Rate_vs_Time.xml" />
+    </Plot>
+    <Plot SUBLAYER_NAME="Link Performance">
+      <Plot DisplayName="Throughput vs Time" LogFileName="Link_Packet_Log.csv" ScriptFileName="Link_Packet_Log\Link_Packet_Log_Throughput_vs_Time.xml" />
+    </Plot>
+    <Plot SUBLAYER_NAME="Custom Plots" />
+  </Plot>
+</Plots>

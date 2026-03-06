@@ -1,0 +1,11 @@
+Selected_Network=Internetworks
+GridWidth=20
+GridLength=20
+Xmin=0
+Ymin=0
+OriginPosition=0
+BackGroundImage=No background image is selected
+EnableGridSettings=True
+EnableSimulationTime=True
+PlacementAreaX_Internetworks=0
+PlacementAreaY_Internetworks=0

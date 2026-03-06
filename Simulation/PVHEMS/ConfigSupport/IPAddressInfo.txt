@@ -1,0 +1,17 @@
+NewGroup
+IPKey=LANIP
+NWAddress=192.168.0.0
+SubnetMask=255.255.0.0
+PrefixLength=0
+StartBytes=192.168.0.1
+LastClientByte=192.168.0.4
+RemovedClientIPCount=0
+Server=
+ServerIP=
+ClientCount=2
+Client=2::1
+ClientIP=192.168.0.2
+Client=3::1
+ClientIP=192.168.0.3
+NonIPDeviceCount=1
+NonIPDevice=1::1
